@@ -1,3 +1,0 @@
-This is a sample dataset for testing the RAG agent pipeline.
-It contains multiple sentences to simulate chunks of text for retrieval.
-This way, the agent can return responses using the context from this data.
