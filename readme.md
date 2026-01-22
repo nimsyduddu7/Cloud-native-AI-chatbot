@@ -2,7 +2,7 @@
 
 A production-ready, cloud-native AI chatbot built with FastAPI, OpenAI, Redis, and comprehensive monitoring. Designed for deployment on AWS or Azure with Docker, Terraform, and Prometheus/Grafana.
 
-## 🚀 Features
+##  Features
 
 - **LLM-Powered Chatbot**: OpenAI integration with support for multiple models
 - **Context Memory**: Redis-based conversation history management
@@ -13,7 +13,7 @@ A production-ready, cloud-native AI chatbot built with FastAPI, OpenAI, Redis, a
 - **Dockerized**: Complete Docker Compose setup for local development
 - **Production-Ready**: Health checks, error handling, and scalability features
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.11+
 - Docker and Docker Compose
@@ -22,7 +22,7 @@ A production-ready, cloud-native AI chatbot built with FastAPI, OpenAI, Redis, a
 - Terraform (for cloud deployment)
 - AWS CLI / Azure CLI (for cloud deployment)
 
-## 🏃 Quick Start
+##  Quick Start
 
 ### Local Development with Docker Compose
 
